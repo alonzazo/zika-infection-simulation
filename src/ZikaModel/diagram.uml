@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="367.32142857142856" y="0.0">ZikaModel.SimulationState</node>
+    <node x="575.0" y="146.0">ZikaModel.StopCondition</node>
+    <node x="268.0" y="146.0">ZikaModel.SimulationModel</node>
+    <node x="411.0" y="247.0">ZikaModel.SimulatedAnnealer</node>
+    <node x="0.0" y="146.0">ZikaModel.ObjectiveFunction</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ZikaModel.SimulatedAnnealer" target="ZikaModel.StopCondition">
+      <point x="113.14285714285711" y="-125.0" />
+      <point x="656.1428571428571" y="227.0" />
+      <point x="689.0" y="227.0" />
+      <point x="38.0" y="25.5" />
+    </edge>
+    <edge source="ZikaModel.ObjectiveFunction" target="ZikaModel.SimulationState">
+      <point x="0.0" y="-25.5" />
+      <point x="124.0" y="126.0" />
+      <point x="390.82142857142856" y="126.0" />
+      <point x="-94.0" y="48.0" />
+    </edge>
+    <edge source="ZikaModel.SimulationModel" target="ZikaModel.SimulationState">
+      <point x="0.0" y="-25.5" />
+      <point x="400.0" y="126.0" />
+      <point x="437.82142857142856" y="126.0" />
+      <point x="-47.0" y="48.0" />
+    </edge>
+    <edge source="ZikaModel.SimulatedAnnealer" target="ZikaModel.SimulationState">
+      <point x="0.0" y="-125.0" />
+      <point x="543.0" y="227.0" />
+      <point x="553.5" y="227.0" />
+      <point x="553.5" y="116.0" />
+      <point x="531.8214285714286" y="116.0" />
+      <point x="47.0" y="48.0" />
+    </edge>
+    <edge source="ZikaModel.SimulatedAnnealer" target="ZikaModel.ObjectiveFunction">
+      <point x="-75.42857142857144" y="-125.0" />
+      <point x="467.57142857142856" y="217.0" />
+      <point x="186.0" y="217.0" />
+      <point x="62.0" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="384.0" y="260.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

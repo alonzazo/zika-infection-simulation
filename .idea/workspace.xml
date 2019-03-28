@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83775713-42bc-4579-b038-18284e42b84c" name="Default" comment="Cambio de hiperparámetros" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.74808323">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/results1.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="21301">
+                  <caret line="1253" column="36" selection-start-line="1253" selection-start-column="36" selection-end-line="1253" selection-end-column="36" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/results2.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="118201">
+                  <caret line="6953" selection-start-line="6953" selection-end-line="6953" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ZikaModel/ZikaInfectionState.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2244">
+                  <caret line="152" selection-start-line="152" selection-end-line="152" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#5116#5117#0" expanded="true" />
+                    <element signature="e#5148#5149#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ZikaModel/SimulationState.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/MainController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="433">
+                  <caret line="88" column="87" lean-forward="true" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ZikaModel/HeadlessSimulation.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1309">
+                  <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/multivariateAnalysisResultsLast.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4420">
+                  <caret line="260" column="52" selection-start-line="260" selection-start-column="52" selection-end-line="260" selection-end-column="52" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ZikaModel/SimulatedAnnealer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="986">
+                  <caret line="60" selection-start-line="60" selection-end-line="60" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/MultivariateAnalysisController.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2958">
+                  <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/multivariateAnalysisResultsLast.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="456">
+                  <caret line="260" column="175" selection-start-line="260" selection-start-column="175" selection-end-line="260" selection-end-column="175" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/multivariateAnalysisResultsLastv2.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="8823">
+                  <caret line="519" selection-start-line="519" selection-end-line="519" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lput</find>
+      <find>double</find>
+      <find>private Attribute</find>
+      <find>Attribute</find>
+      <find>val</find>
+      <find>max</find>
+      <find>min</find>
+      <find>inc</find>
+      <find>alive-cells</find>
+      <find>App.app()</find>
+      <find>headlessWorkspace</find>
+      <find>experimentalDeadCells</find>
+      <find>getCondensedCells</find>
+      <find>result</find>
+      <find>:	2.0</find>
+      <find>:	1.5</find>
+      <find>devolvemos</find>
+      <find>ENERGíA: 	37</find>
+      <find>updates</find>
+      <find>commandLo</find>
+      <find>command</find>
+      <find>command(</find>
+      <find>/zikaInfectionState.getTotalCells())</find>
+      <find>0.1823</find>
+      <find>ENERGíA: 	0.182</find>
+      <find>ENERGíA: 	0.18</find>
+      <find>ENERGíA: 	0.1823</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Attribute</replace>
+      <replace>double[]</replace>
+      <replace>parameter[0]</replace>
+      <replace>parameter[1]</replace>
+      <replace>parameter[2]</replace>
+      <replace>parameter[3]</replace>
+      <replace>headlessWorkspace</replace>
+      <replace>App.app()</replace>
+      <replace>getCondensedCells</replace>
+      <replace>experimentalCondensedCells</replace>
+      <replace>experimentalAliveCells</replace>
+      <replace>getAliveCells</replace>
+      <replace>bestState</replace>
+      <replace>:	2.0</replace>
+      <replace>:	2.0\t</replace>
+      <replace>:	1.5\t</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/MainController.java" />
+        <option value="$PROJECT_DIR$/src/java/paradigmasteam/MainController.java" />
+        <option value="$PROJECT_DIR$/src/SimulationModel.java" />
+        <option value="$PROJECT_DIR$/src/ObjectiveFunction.java" />
+        <option value="$PROJECT_DIR$/src/SimulationState.java" />
+        <option value="$PROJECT_DIR$/src/SimulatedAnnealer.java" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/StopCondition.java" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/SimulationModel.java" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/SimulationState.java" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/GUISimulation.java" />
+        <option value="$PROJECT_DIR$/resources/models/zika.nlogo" />
+        <option value="$PROJECT_DIR$/multivariateAnalysisResultsLast.txt" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/ZikaInfectionState.java" />
+        <option value="$PROJECT_DIR$/corridas.txt" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/SimulatedAnnealer.java" />
+        <option value="$PROJECT_DIR$/results1.txt" />
+        <option value="$PROJECT_DIR$/multivariateAnalysisResults.txt" />
+        <option value="$PROJECT_DIR$/src/results2.txt" />
+        <option value="$PROJECT_DIR$/src/MultivariateAnalysisController.java" />
+        <option value="$PROJECT_DIR$/src/MainController.java" />
+        <option value="$PROJECT_DIR$/src/ZikaModel/HeadlessSimulation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zika-infection-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zika-infection-simulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zika-infection-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zika-infection-simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zika-infection-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zika-infection-simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zika-infection-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zika-infection-simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zika-infection-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zika-infection-simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zika-infection-simulation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zika-infection-simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZikaModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546927823258" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zika-infection-simulation2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Proyectos\IdeaProjects\zika-infection-simulation\resources\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Proyectos\IdeaProjects\zika-infection-simulation" />
+      <recent name="D:\Documentos\Proyectos\IdeaProjects\zika-infection-simulation\resources\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Debug">
+    <configuration name="Debug" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainController" />
+      <module name="zika-infection-simulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultivariateAnalysis" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MultivariateAnalysisController" />
+      <module name="zika-infection-simulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Debug" />
+      <item itemvalue="Application.MultivariateAnalysis" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83775713-42bc-4579-b038-18284e42b84c" name="Default" comment="" />
+      <created>1543182375015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543182375015</updated>
+      <workItem from="1543182379285" duration="28968000" />
+      <workItem from="1543777609340" duration="1178000" />
+      <workItem from="1543826057882" duration="598000" />
+      <workItem from="1543869702263" duration="104000" />
+      <workItem from="1543869851704" duration="868000" />
+      <workItem from="1543876009499" duration="3125000" />
+      <workItem from="1543944835573" duration="36893000" />
+      <workItem from="1544645982522" duration="38331000" />
+      <workItem from="1544938874868" duration="7201000" />
+      <workItem from="1545070406603" duration="119000" />
+      <workItem from="1545070603586" duration="15437000" />
+      <workItem from="1546925681575" duration="1138000" />
+      <workItem from="1553726615743" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="#Java and Netlogo Integration">
+      <created>1543187353480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543187353481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#Java and Netlogo Integration">
+      <created>1543190650035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543190650035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#Java and Netlogo Integration">
+      <created>1543192764939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543192764939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#SimulatedAnnealing Model">
+      <created>1543197126754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543197126754</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#SimulatedAnnealing Model">
+      <created>1543197238564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543197238564</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#SimulatedAnnealing Model">
+      <created>1543197900101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543197900101</updated>
+    </task>
+    <task id="LOCAL-00007" summary="#SimulatedAnnealing Implementation">
+      <created>1543215872586</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543215872586</updated>
+    </task>
+    <task id="LOCAL-00008" summary="#SimulatedAnnealing Implementation">
+      <created>1543216108652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543216108652</updated>
+    </task>
+    <task id="LOCAL-00009" summary="#Se quitó la relación con SimulationModel y se dejó directa con ObjetiveFunction">
+      <created>1543217232867</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543217232867</updated>
+    </task>
+    <task id="LOCAL-00010" summary="#aneal method public to private">
+      <created>1543217712662</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543217712662</updated>
+    </task>
+    <task id="LOCAL-00011" summary="#comments ordered">
+      <created>1543218528003</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543218528003</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Recolección de datos de la simulación completada">
+      <created>1544003052824</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544003052824</updated>
+    </task>
+    <task id="LOCAL-00013" summary="#BugFix Solo una llamada para la función objetivo por paso">
+      <created>1544032652501</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544032652501</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Función objetivo completada">
+      <created>1544044655408</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1544044655408</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Pequeños cambios">
+      <created>1544049857887</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1544049857887</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Agregado de reporte en 0h y 24h">
+      <created>1544646116924</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1544646116924</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Calculo de energía sobre el total de células">
+      <created>1544677475240</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1544677475240</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Diseño multivariado">
+      <created>1544677490452</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1544677490452</updated>
+    </task>
+    <task id="LOCAL-00019" summary="toString() de ZikaInfectionState">
+      <created>1544678605842</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1544678605842</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Probabilidad de aceptación arreglada + Decremento de temperatura geométrico">
+      <created>1544689377242</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1544689377242</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Probabilidad de aceptación arreglada + Decremento de temperatura geométrico">
+      <created>1544939110310</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1544939110310</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Agregado de parámetro para la cantidad de reportes">
+      <created>1544939611170</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544939611170</updated>
+    </task>
+    <task id="LOCAL-00023" summary="LearningRate variable agregada + Documentación para la elección de la distribución de probabilidad inicial">
+      <created>1544940170687</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544940170687</updated>
+    </task>
+    <task id="LOCAL-00024" summary="LearningRate variable de control agregada">
+      <created>1544940228240</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1544940228240</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge with past state">
+      <created>1544940746543</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1544940746546</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Cambio en el decremento de temperatura geométrico de 0.9 a 0.95 + Arreglo de porcentajes de comparación en la función objetivo">
+      <created>1544941819243</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1544941819243</updated>
+    </task>
+    <task id="LOCAL-00027" summary="toString de ZikaInfectedState mejorado">
+      <created>1544942279752</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1544942279752</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Datos de comparación arreglados">
+      <created>1544942824067</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1544942824067</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Arreglo totalReports en HeadlessSimulation + Cambio de decremento geométrico de .95 a .98">
+      <created>1544944038627</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544944038627</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Arreglo totalReports en HeadlessSimulation + Cambio de decremento geométrico de .95 a .98">
+      <created>1545093439988</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1545093439988</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Cambio de hiperparámetros">
+      <created>1545109714908</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1545109714908</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133964000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3912088" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.44950056" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.44505495" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32527474" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32747254" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3912088" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" visible="true" weight="0.44505495" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.44505495" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32747254" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#Java and Netlogo Integration" />
+    <MESSAGE value="#SimulatedAnnealing Model" />
+    <MESSAGE value="#SimulatedAnnealing Implementation" />
+    <MESSAGE value="#Se quitó la relación con SimulationModel y se dejó directa con ObjetiveFunction" />
+    <MESSAGE value="#aneal method public to private" />
+    <MESSAGE value="#comments ordered" />
+    <MESSAGE value="Recolección de datos de la simulación completada" />
+    <MESSAGE value="#BugFix Solo una llamada para la función objetivo por paso" />
+    <MESSAGE value="Función objetivo completada" />
+    <MESSAGE value="Pequeños cambios" />
+    <MESSAGE value="Agregado de reporte en 0h y 24h" />
+    <MESSAGE value="Calculo de energía sobre el total de células" />
+    <MESSAGE value="Diseño multivariado" />
+    <MESSAGE value="toString() de ZikaInfectionState" />
+    <MESSAGE value="Probabilidad de aceptación arreglada + Decremento de temperatura geométrico" />
+    <MESSAGE value="Agregado de parámetro para la cantidad de reportes" />
+    <MESSAGE value="LearningRate variable agregada + Documentación para la elección de la distribución de probabilidad inicial" />
+    <MESSAGE value="LearningRate variable de control agregada" />
+    <MESSAGE value="Merge with past state" />
+    <MESSAGE value="Cambio en el decremento de temperatura geométrico de 0.9 a 0.95 + Arreglo de porcentajes de comparación en la función objetivo" />
+    <MESSAGE value="toString de ZikaInfectedState mejorado" />
+    <MESSAGE value="Datos de comparación arreglados" />
+    <MESSAGE value="Arreglo totalReports en HeadlessSimulation + Cambio de decremento geométrico de .95 a .98" />
+    <MESSAGE value="Cambio de hiperparámetros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio de hiperparámetros" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainController.java</url>
+          <line>10</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainController.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZikaModel/SimulatedAnnealer.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZikaModel/SimulatedAnnealer.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZikaModel/HeadlessSimulation.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultivariateAnalysisController.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((ZikaInfectionState)simulationState).cellDensity" custom="ZikaModel.ZikaInfectionState" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/models/Fire.nlogo" />
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/awt/EventQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/agent/Observer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/agent/AgentBit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/agent/ArrayAgentSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/agent/AgentSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/app/App.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/window/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/agent/IndexedAgentSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="632" column="16" selection-start-line="632" selection-start-column="16" selection-end-line="632" selection-end-column="16" />
+          <folding>
+            <element signature="e#26222#26223#0" expanded="true" />
+            <element signature="e#26265#26266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/models/.zika.tmp.nlogo" />
+    <entry file="file://$PROJECT_DIR$/resources/models/zika.nlogo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/SimulationModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/StopCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/ObjectiveFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/GUISimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1371">
+          <caret line="93" column="101" selection-start-line="93" selection-start-column="101" selection-end-line="93" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/api/Controllable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/workspace/Evaluator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/NetLogo 6.0.4/app/netlogo-6.0.4.jar!/org/nlogo/workspace/Evaluating.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corridas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="1098" column="41" lean-forward="true" selection-start-line="1098" selection-start-column="41" selection-end-line="1098" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multivariateAnalysisResults.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="256" column="797" lean-forward="true" selection-start-line="256" selection-end-line="256" selection-end-column="797" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="367.32142857142856" y="0.0">ZikaModel.SimulationState</node>
+            <node x="575.0" y="146.0">ZikaModel.StopCondition</node>
+            <node x="268.0" y="146.0">ZikaModel.SimulationModel</node>
+            <node x="411.0" y="247.0">ZikaModel.SimulatedAnnealer</node>
+            <node x="0.0" y="146.0">ZikaModel.ObjectiveFunction</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ZikaModel.SimulatedAnnealer" target="ZikaModel.StopCondition">
+              <point x="75.42857142857144" y="-136.0" />
+              <point x="618.4285714285714" y="227.0" />
+              <point x="613.0" y="227.0" />
+              <point x="-38.0" y="25.5" />
+            </edge>
+            <edge source="ZikaModel.ObjectiveFunction" target="ZikaModel.SimulationState">
+              <point x="0.0" y="-25.5" />
+              <point x="124.0" y="126.0" />
+              <point x="390.82142857142856" y="126.0" />
+              <point x="-94.0" y="48.0" />
+            </edge>
+            <edge source="ZikaModel.SimulatedAnnealer" target="ZikaModel.SimulationState">
+              <point x="37.71428571428572" y="-136.0" />
+              <point x="580.7142857142858" y="227.0" />
+              <point x="564.5" y="227.0" />
+              <point x="564.5" y="126.0" />
+              <point x="578.8214285714286" y="126.0" />
+              <point x="94.0" y="48.0" />
+            </edge>
+            <edge source="ZikaModel.SimulationModel" target="ZikaModel.SimulationState">
+              <point x="0.0" y="-25.5" />
+              <point x="400.0" y="126.0" />
+              <point x="437.82142857142856" y="126.0" />
+              <point x="-47.0" y="48.0" />
+            </edge>
+            <edge source="ZikaModel.SimulatedAnnealer" target="ZikaModel.ObjectiveFunction">
+              <point x="-113.14285714285717" y="-136.0" />
+              <point x="429.85714285714283" y="227.0" />
+              <point x="62.0" y="227.0" />
+              <point x="-62.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="530.0" y="75.0" />
+          <SelectedNodes>
+            <node>ZikaModel.ObjectiveFunction</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21301">
+          <caret line="1253" column="36" selection-start-line="1253" selection-start-column="36" selection-end-line="1253" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/results2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118201">
+          <caret line="6953" selection-start-line="6953" selection-end-line="6953" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/ZikaInfectionState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5116#5117#0" expanded="true" />
+            <element signature="e#5148#5149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/SimulationState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/HeadlessSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZikaModel/SimulatedAnnealer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultivariateAnalysisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multivariateAnalysisResultsLast.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4420">
+          <caret line="260" column="52" selection-start-line="260" selection-start-column="52" selection-end-line="260" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multivariateAnalysisResultsLastv2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8823">
+          <caret line="519" selection-start-line="519" selection-end-line="519" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="88" column="87" lean-forward="true" selection-start-line="88" selection-start-column="87" selection-end-line="88" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>R Skeletons</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zika-infection-simulation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>netlogo-6.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
